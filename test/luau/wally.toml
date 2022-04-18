@@ -1,0 +1,8 @@
+[package]
+name = "vorlias/rbxts-test"
+description = ""
+realm = "shared"
+license = "ISC"
+registry = "https://github.com/upliftgames/wally-index"
+authors = [ "vorlias" ]
+version = "1.0.0"

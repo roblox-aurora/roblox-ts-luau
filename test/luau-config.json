@@ -1,0 +1,16 @@
+{
+	"wally": {
+		"username": "vorlias",
+		"packageName": "rbxts-test",
+		"license": "ISC",
+		"registry": "https://github.com/upliftgames/wally-index",
+		"authors": [
+			"vorlias"
+		],
+		"realm": "shared",
+		"description": ""
+	},
+	"build": {
+		"outDir": "./out"
+	}
+}
